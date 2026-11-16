@@ -24,5 +24,5 @@ The objective is to explore mathematical concepts through interactive simulation
 
 ## 📁 Repository Contents
 
-- `Wolfram_Simulation_Report.pdf` – Assignment report containing theory, procedures, observations, and inferences.
-- `Screenshots/` – Screenshots of the performed simulations.
+- `02-SHARVANI_WOLFRAM_16-11-26.pdf` – Assignment report containing theory, procedures, observations, and inferences.
+
