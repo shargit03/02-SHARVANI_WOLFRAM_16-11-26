@@ -1,2 +1,2 @@
 # 02-SHARVANI_WOLFRAM_16-11-26
-Wolfram Demonstrations - Simulation Bas
+Wolfram Demonstrations - Simulation Based Learning
