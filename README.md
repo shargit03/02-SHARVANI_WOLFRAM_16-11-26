@@ -24,5 +24,5 @@ The objective is to explore mathematical concepts through interactive simulation
 
 ## 📁 Repository Contents
 
-- `02-SHARVANI_WOLFRAM_16-11-26.pdf` – Assignment report containing theory, procedures, observations, and inferences.
+- [02-SHARVANI_WOLFRAM_16-11-26.pdf](https://github.com/shargit03/02-SHARVANI_WOLFRAM_16-11-26/blob/main/02-SHARVANI_WOLFRAM_16-11-26.pdf) – Assignment report containing theory, procedures, observations, and inferences.
 
